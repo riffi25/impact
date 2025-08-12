@@ -83,10 +83,12 @@
         },
         "badges": {
           "type": "badges",
+          "disabled": true,
           "settings": {}
         },
         "rating": {
           "type": "rating",
+          "disabled": true,
           "settings": {
             "show_empty": false
           }
@@ -99,10 +101,12 @@
         },
         "separator": {
           "type": "separator",
+          "disabled": true,
           "settings": {}
         },
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_width": 20,
@@ -111,6 +115,7 @@
         },
         "variant-picker": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "hide_sold_out_variants": false,
             "stack_blocks": true,
@@ -122,6 +127,7 @@
         },
         "quantity-selector": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {}
         },
         "buy-buttons": {
