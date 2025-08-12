@@ -91,6 +91,12 @@
             "show_empty": false
           }
         },
+        "kaching_bundles_app_block_8xgzdL": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
         "separator": {
           "type": "separator",
           "settings": {}
@@ -134,6 +140,7 @@
         "title",
         "badges",
         "rating",
+        "kaching_bundles_app_block_8xgzdL",
         "separator",
         "description",
         "variant-picker",
@@ -142,7 +149,7 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "glossylift™",
+        "product": "funbrush-la-brosse-a-dents-pour-enfants-heureux",
         "desktop_media_width": 45,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
